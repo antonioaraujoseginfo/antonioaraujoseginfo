@@ -1,4 +1,4 @@
-### Olá bem vido ao meu perfil😄
+### Olá bem vido ao meu perfil😎<>
 Meu nome é Antonio Araujo sou apaixonado por tecnologia, inicialmente estou estudando programação na linguagem Python 
 <!--
 **antonioaraujoSeginfo/antonioaraujoSeginfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
