@@ -1,4 +1,4 @@
-### Bem vido ao meu perfil😎<>
+### Bem vido ao meu perfil 😎 </>
 Meu nome é Antonio Araujo sou apaixonado por tecnologia, inicialmente estou estudando programação em linguagem Python. 
 <!--
 
