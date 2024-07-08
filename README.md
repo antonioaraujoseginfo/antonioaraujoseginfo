@@ -1,5 +1,5 @@
 ### Bem vido ao meu perfil 😎 </>
-Meu nome é Antonio Araujo sou apaixonado por tecnologia, inicialmente estou estudando programação em linguagem Python. 
+Meu nome é Antonio Araujo sou apaixonado por tecnologia, atualmente estou estudando Análise de Dados:) 
 <!--
 
 <br>
