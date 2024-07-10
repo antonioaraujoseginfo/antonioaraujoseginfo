@@ -1,5 +1,5 @@
 ### Bem vido ao meu perfil 😎 </>
-Olá meu nome é Antonio Araujo sou apaixonado por tecnologia, atualmente estou estudando Análise de Dados:) 
+Olá meu nome é Antonio Araujo sou apaixonado por tecnologia, atualmente estou estudando Análise de Dados :) 
 <!--
 
 <br>
