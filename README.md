@@ -2,7 +2,7 @@
 
 Olá 👋
 
-Meu nome é Antonio Araujo, atualmente estou estudando Análise de Dados :) 
+Meu nome é Antonio Araujo, atualmente estou estudando Análise de Dados 🥇
 <!--
 
 <br>
