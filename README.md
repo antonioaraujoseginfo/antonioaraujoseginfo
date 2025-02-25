@@ -2,7 +2,7 @@
 
 Olá meu nome é Antonio Araújo👋
 
-Profissional com 20 anos de experiência na área comercial B2B, com forte foco em Business Intelligence e análise de dados. Possuo excelentes habilidades de comunicação e uma abordagem proativa, permitindo-me ajudar as partes interessadas a encontrar soluções personalizadas. Meu objetivo é aplicar técnicas analíticas e ferramentas de visualização de dados, como Power BI, para transformar dados em insights valiosos.🥇🚀 
+Profissional com 20 anos de experiência na área comercial B2B, com forte foco em Business Intelligence e análise de dados. Possuo excelentes habilidades de comunicação e uma abordagem proativa, permitindo-me ajudar as partes interessadas a encontrar soluções personalizadas. Meu objetivo é aplicar técnicas analíticas e ferramentas de visualização de dados, como Power BI, para transformar dados em insights valiosos.
 <!--
 
 <br>
